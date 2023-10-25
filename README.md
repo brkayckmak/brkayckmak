@@ -6,7 +6,7 @@ Hello ! My name is Berkay Cakmak, I am a Python Developer. ✨✨
 <li> 💻 I’m currently working with Python.</li>
 <li> 📫 You can reach me at: contact@berkaycakmak.com </li>
 
-<li> I lost my previous account, now I'll create my repositories on this account. My previous account's <a href="link">https://github.com/berkaycakmak</a> </li>
+<li> I lost my previous account, now I'll create my repositories on this account. Here is previous account's <a href="https://github.com/berkaycakmak">link</a> </li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
