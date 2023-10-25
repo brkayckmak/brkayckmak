@@ -10,4 +10,4 @@ Hello ! My name is Berkay Cakmak, I am a Python Developer. ✨✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/berkaycakmak/" target="blank" rel=”noopener”><img align="center" src="https://www.vecteezy.com/png/18930587-linkedin-logo-png-linkedin-icon-transparent-png" alt="berkaycakmak" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/berkay-cakmak/" target="blank" rel=”noopener”><img align="center" src="https://www.vecteezy.com/png/18930587-linkedin-logo-png-linkedin-icon-transparent-png" alt="berkaycakmak" height="30" width="30" /></a>
