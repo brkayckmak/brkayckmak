@@ -2,10 +2,10 @@
 <div align="center"><img src="https://c.tenor.com/oC_e7R9GvZ8AAAAC/rick-and-morty-rtj.gif" width="280" height="230"  /> </div>
 
 
-Hello! My name is Berkay Çakmak, I am a software engineer. ✨✨  
+Hello! My name is Berkay Çakmak, I am a software engineer. 🤓
 <li> 💻 I am currently working at <a href="https://vispera.co/">Vispera</a> as a Image Recognition Production Engineer.</li>
 <li> 🌐 You can see my portfolio <a href="https://berkaycakmak.com/">here!</a></li>
-<li> 📫 You can reach me at: contact@berkaycakmak.com </li>
+<li> 📫 You can reach me at: <a href="mailto:contact@berkaycakmak.com"> </li>
 
 <li> I lost my previous account, now I'll create my repositories on this account. <a href="https://github.com/berkaycakmak">Here</a> is my previous account's link.  </li>
 
